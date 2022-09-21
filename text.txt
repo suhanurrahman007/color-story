@@ -1,3 +1,5 @@
 1. My first color is Red.
 2. Green is my faverid color.
 3. Blue color is dangeras.
+4. Red color.
+5. Blue color.
