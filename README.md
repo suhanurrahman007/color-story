@@ -1,2 +1,2 @@
 # color-story
-This is my all color.
+This is my all colors.
